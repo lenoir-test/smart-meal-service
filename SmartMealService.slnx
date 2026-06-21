@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SmartMealService.ApiClient/SmartMealService.ApiClient.csproj" />
+  <Project Path="SmartMealService.ConsoleApp/SmartMealService.ConsoleApp.csproj" />
+  <Project Path="SmartMealService.Domain/SmartMealService.Domain.csproj" />
+  <Project Path="SmartMealService.MockServer/SmartMealService.MockServer.csproj" />
+  <Project Path="SmartMealService.WpfApp/SmartMealService.WpfApp.csproj" />
+</Solution>
